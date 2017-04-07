@@ -1,0 +1,1 @@
+{"error":{"code":"com.amazon.alexahttpproxy.exceptions.BadRequestException","message":"Unexpected character ('e' (code 101)) in numeric value: expected digit (0-9) to follow minus sign, for valid numeric value\n at [Source: [LineReaderInputStreamAdaptor: [pos: 101][limit: 101][]]; line: 1, column: 3]"}}
