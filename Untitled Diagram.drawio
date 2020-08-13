@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T20:52:35.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="T7q_sPkta7kc_5eI0-Wa" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T20:53:23.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="uEUu1Q06vgfT6ot5t6wN" version="13.6.2" type="github">
   <diagram id="ySlxF4ncAt-DPtO_EYwo" name="Page-1">
     <mxGraphModel dx="786" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,9 +71,6 @@
         </mxCell>
         <mxCell id="skakLKX9RZtpJJZrX6Nr-19" value="Azure App services" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="70" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="skakLKX9RZtpJJZrX6Nr-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="skakLKX9RZtpJJZrX6Nr-23" target="skakLKX9RZtpJJZrX6Nr-11">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="skakLKX9RZtpJJZrX6Nr-23" value="Migration connection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="170" width="130" height="40" as="geometry" />
